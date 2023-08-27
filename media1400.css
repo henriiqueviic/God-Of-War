@@ -1,0 +1,72 @@
+@media screen and (min-width:1400px) {
+
+
+    /*HEADER*/
+    .name {
+        padding: 0 1rem;
+        width: 180px;
+        
+    }
+    li {
+        padding:0.6rem 0.8rem; 
+          border: 0.10rem solid #ffffff;
+          font-weight: 600;
+          font-size: 1.4rem;
+          line-height: 1.5rem;
+    }
+    
+    h1 {
+        font-size: 5.8rem;
+      }
+    h1 span {
+        font-size: 6.1rem;
+    }
+    
+    .col-a {
+        font-size: 1.5rem;
+        
+        
+    }
+    .col-b {
+        font-size: 1.5rem;
+    }
+    span {
+        font-size: 1.5rem;
+    }
+    .col-c {
+        font-size: 1.9rem;
+    }
+    
+    .home {
+        display: flex; /* Tornar a seção um flex container */
+        justify-content: space-between; /* Alinhar os filhos (container e right) nas extremidades */
+        align-items: flex-start; /* Alinhar os filhos ao topo */
+        padding-top: 10rem;
+      }  
+    
+    
+    
+    /*RIGHT*/
+    .col-a-a {
+        font-size: 1.4rem;
+    } 
+    .modal-btn {
+width: 85%;
+        
+      }
+      
+      .play {
+        width: 40px;
+      }
+
+      .col-a-b {
+        font-size: 1rem;
+      }
+      /* BUTTON */
+
+      .btn-contatos {
+        height: 4.8em;
+        width: 20em;
+        font-size: 24px;
+       }
+       }

@@ -1,0 +1,54 @@
+@media screen and (min-width:1150px) and (max-width:1400px) {
+    /* HOME */
+    h1 {
+        font-size: 4.8rem;
+      }
+    
+    .col-a {
+        font-size: 1.4rem;
+        
+        
+    }
+    .col-b {
+        font-size: 1.4rem;
+    }
+    span {
+        font-size: 1.4rem;
+    }
+    .col-c {
+        font-size: 1.8rem;
+    }
+    
+    .home {
+        display: flex; /* Tornar a seção um flex container */
+        justify-content: space-between; /* Alinhar os filhos (container e right) nas extremidades */
+        align-items: flex-start; /* Alinhar os filhos ao topo */
+        padding-top: 10rem;
+      }  
+    
+    
+    
+    /*RIGHT*/
+    .col-a-a {
+        font-size: 1rem;
+    } 
+    .modal-btn {
+width: 80%;
+        
+      }
+      
+      .play {
+        width: 30px;
+      }
+
+      .col-a-b {
+        font-size: 0.9rem;
+      }
+      /* BUTTON */
+
+      .btn-contatos {
+        height: 4.8em;
+        width: 20em;
+        font-size: 24px;
+       }
+       }

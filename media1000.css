@@ -1,0 +1,56 @@
+@media screen and (min-width:1000px) and (max-width:1200px) {
+    /* HOME */
+    h1 {
+        font-size: 3.8rem;
+      }
+    
+    .col-a {
+        font-size: 1.2rem;
+        
+        
+    }
+    .col-b {
+        font-size: 1.2rem;
+    }
+    span {
+        font-size: 1.2rem;
+    }
+    .col-c {
+        font-size: 1.6rem;
+    }
+    
+    .home {
+        display: flex; /* Tornar a seção um flex container */
+        justify-content: space-between; /* Alinhar os filhos (container e right) nas extremidades */
+        align-items: flex-start; /* Alinhar os filhos ao topo */
+        padding-top: 10rem;
+      }  
+    
+    
+    
+    /*RIGHT*/
+    .col-a-a {
+        font-size: 1.4rem;
+    } 
+    .col-a-b {
+      font-size: 1.8rem;
+  } 
+    .modal-btn {
+      width: 70%; 
+      }
+      
+      .play {
+        width: 30px;
+      }
+
+      .col-a-b {
+        font-size: 0.7rem;
+      }
+      /* BUTTON */
+
+      .btn-contatos {
+        height: 4.8em;
+        width: 18em;
+        font-size: 20px;
+       }
+       }

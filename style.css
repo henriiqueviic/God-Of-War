@@ -1,0 +1,17 @@
+@import url("header.css");
+@import url("home.css");
+@import url("button.css");
+@import url("./media/media325.css");
+@import url("./media/media428.css");
+@import url("./media/media650.css");
+@import url("./media/media820.css");
+@import url("./media/media950.css");
+@import url("./media/media1000.css");
+@import url("./media/media1200.css");
+@import url("./media/media1400.css");
+
+
+body {
+    margin: 0;
+    padding: 0;
+}

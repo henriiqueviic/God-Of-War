@@ -1,0 +1,54 @@
+@media screen and (min-width: 300px) and (max-width: 650px)  {
+  /* HOME */
+  li {
+    font-size: 0.6rem;
+  }
+  h1 {
+    font-size: 1.6rem;
+  }
+  h1 span {
+    font-size: 1.9rem;
+  }
+
+.col-a {
+    font-size: 1rem;
+    
+    
+}
+.col-b {
+    font-size: 1rem;
+}
+.col-c {
+    font-size: 1.3rem;
+}
+
+.home {
+    padding-top: 6rem;
+    
+}
+.btn-contatos {
+    height: 2.8em;
+    width: 9em;
+    font-size: 16px;
+   }
+
+/*RIGHT*/
+.col-a-a {
+    font-size: 1rem;
+} 
+.modal-btn {
+    position: relative;
+    overflow: hidden;
+    box-shadow: 1px;
+    overflow: hidden;
+    
+  }
+
+  .play {
+    left: 0.9rem;
+    bottom: 1.1rem;
+  }
+
+    }
+
+    

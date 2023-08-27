@@ -1,0 +1,100 @@
+body {
+  background: url("../assets/bg-hero.jpg") top center;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+
+.container {
+  display: flex;
+  flex-direction: column; /* Alteração para exibir os itens um abaixo do outro */
+  align-items: center; /* Centralizar horizontalmente */
+  font-family: 'Archivo', sans-serif;
+  padding: 0 1rem;
+
+
+}
+
+/* Estilos para ajustar o espaçamento entre os elementos */
+.container > * {
+  margin-bottom: 0.3rem;
+}
+
+
+h1 {
+  font-size: 3.7rem;
+  color: white;
+  margin-top: 1vh;
+  white-space: nowrap; /* Impede a quebra de linha */
+
+}
+h1 span {
+  color: #74b7fa;
+  font-size: 5rem;
+  white-space: nowrap; /* Impede a quebra de linha */
+}
+.col-b {
+  font-weight:400;
+  font-size: 1.2rem;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+
+.col-a {
+  font-weight: 400;
+  font-size: 1.2rem;
+  color: #ffffff9a;
+  font-family: 'Roboto', sans-serif;;
+  font-weight: bold;
+}
+
+
+.right {
+  position: relative;
+  display: flex;
+  flex-direction: column; /* Alinha os elementos verticalmente */
+  align-items: center; /* Centraliza horizontalmente */
+  text-align: center; /* Centraliza o texto */
+  width: 100%; 
+}
+.year-old {
+    flex-direction: column;
+  
+}
+.col-a-a { 
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-family: 'Roboto', sans-serif;;
+    font-weight: bold;
+}
+.modal-btn {
+  position: relative;
+border: 2px solid #74b7fa;
+  overflow: hidden;
+  box-shadow: 4px;
+  margin-bottom: 2.1rem;
+  overflow: hidden;
+  width: 40%;
+}
+
+.thumnail {
+  width: 100%;
+  margin-top: 0.5vh;
+  
+}
+.play {
+  display: block;
+  position: absolute;
+  bottom: 1.5rem;
+  left: 1.2rem;
+  width: 20px;
+}
+
+.col-a-b {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 2vh;
+  color: #ffffff;
+  font-weight: bold;
+}
+

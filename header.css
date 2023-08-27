@@ -1,0 +1,42 @@
+header {
+    color: #ffff;
+    padding: 30px;
+    background-color: #000201;
+    
+}
+
+.logo-playstation {
+    padding: 0 1rem;
+    width: 40px;
+}
+.panel {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.name {
+    padding: 0 1rem;
+    width: 180px;
+    
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    display: flex;
+    gap: 0.8rem;
+    color: #ffff;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+li {
+    padding:0.2rem 0.4rem; 
+      border: 0.10rem solid #ffffff;
+      font-weight: 600;
+      font-size: 0.8rem;
+      line-height: 1.5rem;
+}
+
+
